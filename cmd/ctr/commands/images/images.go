@@ -54,6 +54,7 @@ var Command = cli.Command{
 		setLabelsCommand,
 		convertCommand,
 		usageCommand,
+		verifyCommand,
 	},
 }
 
